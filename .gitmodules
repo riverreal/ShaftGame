@@ -1,0 +1,3 @@
+[submodule "ShaftEngine"]
+	path = ShaftEngine
+	url = https://github.com/riverreal/ShaftEngine
