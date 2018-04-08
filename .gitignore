@@ -1,0 +1,7 @@
+*.vs
+*Bin
+Game/Project/Windows/ShaftGame/*
+
+!Game/Project/Windows/ShaftGame/*.sln
+!Game/Project/Windows/ShaftGame/*.vcxproj
+!Game/Project/Windows/ShaftGame/*.vcxproj.filters
